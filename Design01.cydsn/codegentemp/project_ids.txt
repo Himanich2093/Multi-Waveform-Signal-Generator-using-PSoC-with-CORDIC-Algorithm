@@ -1,0 +1,6 @@
+D:\ECE software files\Embededd lab\psoc lab files\try3workspace\Design01.cydsn\Design01.cyprj|3d2fe394-7283-40c5-8556-54a1577d4f91
+D:\ECE software files\Embededd lab\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|fa37ac3f-f117-4734-95ec-3a1c4479b0d5
+C:\Users\himan\OneDrive\Documents\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|1d0f846a-f5f4-44f8-8651-d37cd23b0c91
+D:\ECE software files\Embededd lab\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|577451cd-8ccf-4dd2-9c0a-9431937d4d5c
+D:\ECE software files\Embededd lab\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|6be19a3e-5635-4585-8556-5acc89787def
+D:\ECE software files\Embededd lab\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|cffd553c-f6e8-4989-9110-a34bf994c833
